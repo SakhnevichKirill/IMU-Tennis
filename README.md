@@ -1,4 +1,6 @@
 # Personal Tennis Assistant (PTA)
+Презентация:
+https://drive.google.com/drive/folders/1BADNmSdx3Lb0_9ldPejyhtXjDI3W7DY5?usp=sharing
 
 Архив с исходниками:
 https://drive.google.com/drive/folders/1BADNmSdx3Lb0_9ldPejyhtXjDI3W7DY5?usp=sharing
