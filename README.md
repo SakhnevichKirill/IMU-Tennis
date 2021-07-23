@@ -3,7 +3,7 @@
 https://drive.google.com/drive/folders/1BADNmSdx3Lb0_9ldPejyhtXjDI3W7DY5?usp=sharing
 
 Архив с исходниками:
-https://drive.google.com/drive/folders/1BADNmSdx3Lb0_9ldPejyhtXjDI3W7DY5?usp=sharing
+https://drive.google.com/drive/folders/1RbKDMesK6TaG4z36QE4_CmI0nzz6I7IO?usp=sharing
 
 Ключевые файлы архива:
 IMU_Tennis_BT_PC\Assets\_Scripts\BluetoothController.cs - скрипт на c# отвечающий за обработку данных в unity
